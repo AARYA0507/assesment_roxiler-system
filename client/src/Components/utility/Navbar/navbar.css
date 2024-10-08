@@ -1,0 +1,23 @@
+
+.navbar-div{
+    position: fixed;
+    width: 100vw;
+    top:0;
+    padding: 20px;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    gap: 10;
+    background-color: white;
+    
+}
+
+.navbar-div >a{
+    margin: 0px 5px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 7px 12px;
+    border-radius: 20px;
+    text-transform: uppercase;
+
+}
